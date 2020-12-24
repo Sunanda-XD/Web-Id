@@ -1,8 +1,4 @@
 # Web-Id
-# INSTAL
- 
-
-
 
 
 
